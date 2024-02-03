@@ -10,17 +10,17 @@
 - `STRING_SESSION` : Use Telethon String Session [Generate Here](https://telegram.me/VJStringSessionBot)
 - `SUDO_USERS` : It mean Admin Id Only Sudo User can use this bot</b>
 
-## How To Make Your Own [Video Tutorial](https://youtu.be/qp3Jvzw2jnY)
+## How To Make Your Own [Video Tutorial](https://youtu.be/@Labani25)
 
-## Update Channel [VJ Botz](https://telegram.me/vj_botz)
+## Update Channel [VJ Botz](https://telegram.me/noob_films)
 
-## Support Group [VJ Support](https://telegram.me/vj_bot_disscussion)
+## Support Group [VJ Support](https://telegram.me/noob_films)
 
-## Contact Owner [Tech VJ](https://telegram.me/kingvj01)
+## Contact Owner [Tech VJ](https://telegram.me/l_abani)
 
 #### Credit :- 
 
-- Rahulps1000
+- MrLabani
 - Tech VJ
 
 
